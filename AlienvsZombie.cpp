@@ -20,7 +20,7 @@ class Board
 {
 private:
     vector<vector<char>> map_; // convention to put trailing underscore
-    int dimX_, dimY_;          // to indicate private data
+    int dimX_, dimY_;          // to indicate private data test
 public:
     Board(int dimX = 19, int dimY = 3, int numZ = 2);
     void init(int dimX, int dimY, int numZ);
