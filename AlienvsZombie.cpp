@@ -135,7 +135,7 @@ int main()
     int dimX, dimY;
     string input;
     cout << "Game Dashboard" << endl;
-
+    cout << "--------------" << endl;
     cout << "Columns = 19" << endl;
     cout << "Rows = 3" << endl;
     cout << "Do you want to change the columns and rows? (y/n)" << endl;
@@ -144,7 +144,7 @@ int main()
     {
         cout << "Enter Columns:";
         cin >> dimX;
-        cout << "Enter number of rows:";
+        cout << "Enter Rows:";
         cin >> dimY;
         cout << "Do you want to start the game? (y/n)" << endl;
         cin >> input;
