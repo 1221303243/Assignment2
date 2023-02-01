@@ -28,10 +28,9 @@ List all the features not yet done. Remove this section if there is no incomplet
 5. Game controls
 6. Game commands
 7. Zombie counts
-8. Board's dimension
-9. Alien kills zombie and win
-10. Save game
-11. Quit game 
+8. Alien kills zombie and win
+9. Save game
+10. Quit game
 
 ## Additional Features
 
@@ -58,4 +57,4 @@ List down the contribution of each group members.
 
 ## Problems Encountered & Solutions
 
-Describe the problems encountered and provide the solutions / plan for the solutions.
+During the making of the code, we encountered a problem where the output display two gameboard at the same time. We find that we accidentally put test1_1() outside the loop in the int main(). Then we remove it and the output display only one gameboard.
