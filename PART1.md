@@ -43,18 +43,18 @@ List down the contribution of each group members.
 
 ### Arif Faisal Bin Zakaria
 
-1. Randomly generate game board.
-2. *add more*
+1. Generate gameboard 
+2. Setting to change rows and columns
 
 ### Aizam Nazmien Bin Alinoordin
 
-1. Zombie movement and attack behaviour.
-2. *add more*
+1. Alien spawn
+2. Zombie spawn
 
 ### KOK YEW YAN 
 
-1. Implement all game objects.
-2. *add more*
+1. Game dashboard
+2. Start game
 
 ## Problems Encountered & Solutions
 

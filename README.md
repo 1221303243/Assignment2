@@ -16,10 +16,19 @@ Then type .\a to run the program
 
 ## User Manual
 
-Please provide the user manual on how to use your program.
+1. Copy our code into Visual Studio Code.
 
-Please DO NOT change the Progress Log below. Leave it as it is.
+2. Click the “Compile” button to run the code.
 
+3. The Game Dashboard will display default setting of the game, which is Columns: 19, Rows: 3.
+
+4. Press “y” if you want to change the default settings. Press “n” if you’re comfortable with the default settings.
+
+5. If you press “y” previously , the system will ask to enter columns and rows. Enter your desired columns and rows. (The columns and rows number’s must be an odd number.)
+
+5. The system will ask if you want to start the game.  Enter “y” if you want to start the game. Otherwise, enter “n”.
+
+6. It will display the game board with the columns and rows that you entered.
 ## Progress Log
 
 - [Part 1](PART1.md)
