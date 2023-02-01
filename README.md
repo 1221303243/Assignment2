@@ -4,10 +4,7 @@ This is a text-based, simplified version of the Alien Path game. Players need to
 
 ![ALien vs Zombie](Screenshot%202023-02-01%20155628.jpg)
 
-You may add one signature screenshot of your program here or above the title. Check out [this tutorial](https://www.digitalocean.com/community/tutorials/markdown-markdown-images) to learn how to do it.
-
-Please provide the YouTube link to your [Video Demo](https://youtube.com).
-
+This is a YouTube link that will bring you to the video demo https://youtu.be/AC2U8OEz6UQ
 ## Compilation Instructions
 
 ```
